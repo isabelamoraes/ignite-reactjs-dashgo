@@ -28,10 +28,10 @@ To clone and run this application, place from your command line:
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/isabelamoraes/ignite-reacjs-dashgo.git
+$ git clone https://github.com/isabelamoraes/ignite-reactjs-dashgo.git
 
 # Go into the repository
-$ cd ignite-reacjs-dashgo
+$ cd ignite-reactjs-dashgo
 
 # Install dependencies
 $ yarn
