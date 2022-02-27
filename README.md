@@ -36,7 +36,7 @@ $ cd ignite-reacjs-dashgo
 # Install dependencies
 $ yarn
 
-# Run the mobile application
+# Run the application
 $ yarn dev
 
 ```
