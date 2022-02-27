@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img alt="Application Demo" src="https://github.com/isabelamoraes/ignite-reacjs-dashgo/blob/main/demo/web.jpg?raw=true" width="70%">
+  <img alt="Application Demo" src="https://github.com/isabelamoraes/ignite-reactjs-dashgo/blob/main/demo/web.jpg?raw=true" width="70%">
 </p>
 
 ## Features
